@@ -8,7 +8,7 @@ For this assignment, you will need to create a React application to implement th
 
 There are four screens that need to be implemented. The data for all the screens can be found [here](https://gist.github.com/redixhumayun/117f7f2c9b132e632a50ed5a323f9c1e).
 
-You are free to use any kind of dummy data you want to implement the screens. You are free to use any library you want while implementing the visualizations and the calendar date picker.
+You are free to use any library you want while implementing the visualizations and the calendar date picker.
 
 You will be judged on the following criteria:
 
